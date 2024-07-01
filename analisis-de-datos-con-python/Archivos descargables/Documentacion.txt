@@ -1,0 +1,11 @@
+--------------------------------------------------------------------
+DOCUMENTACION
+--------------------------------------------------------------------
+https://numpy.org/doc/stable/
+https://matplotlib.org/stable/users/index
+https://pandas.pydata.org/docs/user_guide/index.html#user-guide\
+https://docs.python.org/3/library/re.html
+--------------------------------------------------------------------
+BASE DE DATOS
+--------------------------------------------------------------------
+https://datos.bancomundial.org/
